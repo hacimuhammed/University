@@ -79,6 +79,7 @@ namespace CarParking
                     text_writer(ReturnTypes.error);
                     Environment.Exit(1);
                     break;
+
             }
             calculate_price(Parking);
         }
@@ -108,6 +109,8 @@ namespace CarParking
             for (int i = 0; i < days; i++)
             {
                 int remainingTime = (hours - (i * 24)) == hours ? 24 : (hours - (i * 24));
+                remainingTime = remainingTime == 1 ? 2 : remainingTime;
+      
 
                 if (remainingTime >= 2)
                 {
