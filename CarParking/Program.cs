@@ -109,6 +109,7 @@ namespace CarParking
             for (int i = 0; i < days; i++)
             {
                 int remainingTime = (hours - (i * 24)) == hours ? 24 : (hours - (i * 24));
+                remainingTime = remainingTime > 24 ? remainingTime = 24 : remainingTime;
                 remainingTime = remainingTime == 1 ? 2 : remainingTime;
       
 
@@ -116,25 +117,14 @@ namespace CarParking
                 {
                     remainingTime = remainingTime - (2 * (i + 1));
                     total += parking.prices.Price;
+                
                 }
                 //test
-                if (input_hour < 24)
-                {
-                    if (input_hour >= parking.prices.DailyFixedFee)
-                        total += (parking.prices.DailyFixedFee * parking.prices.EveryNextHourPrice) - 2;
-                    else
-                        total += (input_hour - 2) * parking.prices.EveryNextHourPrice;
-                }
-                else
-                {
+               
                     if (remainingTime >= parking.prices.DailyFixedFee)
-                    {
-                        remainingTime = remainingTime - parking.prices.DailyFixedFee;
-                        total += parking.prices.DailyFixedFee * parking.prices.EveryNextHourPrice;
-                    }
-                    else
-                        total += remainingTime * parking.prices.EveryNextHourPrice;
-                }
+                        total += (parking.prices.DailyFixedFee * parking.prices.EveryNextHourPrice) - 2;
+              
+      
             }
 
             Console.WriteLine(ReturnTypes.totalPrice + total.ToString("C", new CultureInfo("tr-TR")));
