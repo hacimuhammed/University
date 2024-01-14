@@ -1,0 +1,14 @@
+C:\Users\mustafa\source\repos\PT.Odev.Foreach\bin\Debug\net8.0\PT.Odev.Foreach.exe
+C:\Users\mustafa\source\repos\PT.Odev.Foreach\bin\Debug\net8.0\PT.Odev.Foreach.deps.json
+C:\Users\mustafa\source\repos\PT.Odev.Foreach\bin\Debug\net8.0\PT.Odev.Foreach.runtimeconfig.json
+C:\Users\mustafa\source\repos\PT.Odev.Foreach\bin\Debug\net8.0\PT.Odev.Foreach.dll
+C:\Users\mustafa\source\repos\PT.Odev.Foreach\bin\Debug\net8.0\PT.Odev.Foreach.pdb
+C:\Users\mustafa\source\repos\PT.Odev.Foreach\obj\Debug\net8.0\PT.Odev.Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\source\repos\PT.Odev.Foreach\obj\Debug\net8.0\PT.Odev.Foreach.AssemblyInfoInputs.cache
+C:\Users\mustafa\source\repos\PT.Odev.Foreach\obj\Debug\net8.0\PT.Odev.Foreach.AssemblyInfo.cs
+C:\Users\mustafa\source\repos\PT.Odev.Foreach\obj\Debug\net8.0\PT.Odev.Foreach.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\source\repos\PT.Odev.Foreach\obj\Debug\net8.0\PT.Odev.Foreach.dll
+C:\Users\mustafa\source\repos\PT.Odev.Foreach\obj\Debug\net8.0\refint\PT.Odev.Foreach.dll
+C:\Users\mustafa\source\repos\PT.Odev.Foreach\obj\Debug\net8.0\PT.Odev.Foreach.pdb
+C:\Users\mustafa\source\repos\PT.Odev.Foreach\obj\Debug\net8.0\PT.Odev.Foreach.genruntimeconfig.cache
+C:\Users\mustafa\source\repos\PT.Odev.Foreach\obj\Debug\net8.0\ref\PT.Odev.Foreach.dll
