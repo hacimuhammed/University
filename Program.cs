@@ -2,6 +2,7 @@
 string[] isimler = { "Asuman", "İclal", "Emin", "Bekir", "Ahmet", "Can", "Esma" };
 
 Random random = new Random();
+random.Shuffle(iller);
 random.Shuffle(isimler);
 
 int length = iller.Length;
