@@ -1,0 +1,14 @@
+C:\Users\mustafa\source\repos\PT.Odev.GradeAvarage\obj\Debug\net8.0\PT.Odev.GradeAvarage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\source\repos\PT.Odev.GradeAvarage\obj\Debug\net8.0\PT.Odev.GradeAvarage.AssemblyInfoInputs.cache
+C:\Users\mustafa\source\repos\PT.Odev.GradeAvarage\obj\Debug\net8.0\PT.Odev.GradeAvarage.AssemblyInfo.cs
+C:\Users\mustafa\source\repos\PT.Odev.GradeAvarage\obj\Debug\net8.0\PT.Odev.GradeAvarage.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\source\repos\PT.Odev.GradeAvarage\bin\Debug\net8.0\PT.Odev.GradeAvarage.exe
+C:\Users\mustafa\source\repos\PT.Odev.GradeAvarage\bin\Debug\net8.0\PT.Odev.GradeAvarage.deps.json
+C:\Users\mustafa\source\repos\PT.Odev.GradeAvarage\bin\Debug\net8.0\PT.Odev.GradeAvarage.runtimeconfig.json
+C:\Users\mustafa\source\repos\PT.Odev.GradeAvarage\bin\Debug\net8.0\PT.Odev.GradeAvarage.dll
+C:\Users\mustafa\source\repos\PT.Odev.GradeAvarage\bin\Debug\net8.0\PT.Odev.GradeAvarage.pdb
+C:\Users\mustafa\source\repos\PT.Odev.GradeAvarage\obj\Debug\net8.0\PT.Odev.GradeAvarage.dll
+C:\Users\mustafa\source\repos\PT.Odev.GradeAvarage\obj\Debug\net8.0\refint\PT.Odev.GradeAvarage.dll
+C:\Users\mustafa\source\repos\PT.Odev.GradeAvarage\obj\Debug\net8.0\PT.Odev.GradeAvarage.pdb
+C:\Users\mustafa\source\repos\PT.Odev.GradeAvarage\obj\Debug\net8.0\PT.Odev.GradeAvarage.genruntimeconfig.cache
+C:\Users\mustafa\source\repos\PT.Odev.GradeAvarage\obj\Debug\net8.0\ref\PT.Odev.GradeAvarage.dll

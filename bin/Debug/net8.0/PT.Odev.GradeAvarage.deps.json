@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PT.Odev.GradeAvarage/1.0.0": {
+        "runtime": {
+          "PT.Odev.GradeAvarage.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PT.Odev.GradeAvarage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
