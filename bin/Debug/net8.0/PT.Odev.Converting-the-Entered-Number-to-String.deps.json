@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PT.Odev.Converting-the-Entered-Number-to-String/1.0.0": {
+        "runtime": {
+          "PT.Odev.Converting-the-Entered-Number-to-String.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PT.Odev.Converting-the-Entered-Number-to-String/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\mustafa\source\repos\PT.Odev.Converting-the-Entered-Number-to-String\bin\Debug\net8.0\PT.Odev.Converting-the-Entered-Number-to-String.exe
+C:\Users\mustafa\source\repos\PT.Odev.Converting-the-Entered-Number-to-String\bin\Debug\net8.0\PT.Odev.Converting-the-Entered-Number-to-String.deps.json
+C:\Users\mustafa\source\repos\PT.Odev.Converting-the-Entered-Number-to-String\bin\Debug\net8.0\PT.Odev.Converting-the-Entered-Number-to-String.runtimeconfig.json
+C:\Users\mustafa\source\repos\PT.Odev.Converting-the-Entered-Number-to-String\bin\Debug\net8.0\PT.Odev.Converting-the-Entered-Number-to-String.dll
+C:\Users\mustafa\source\repos\PT.Odev.Converting-the-Entered-Number-to-String\bin\Debug\net8.0\PT.Odev.Converting-the-Entered-Number-to-String.pdb
+C:\Users\mustafa\source\repos\PT.Odev.Converting-the-Entered-Number-to-String\obj\Debug\net8.0\PT.Odev.Converting-the-Entered-Number-to-String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\source\repos\PT.Odev.Converting-the-Entered-Number-to-String\obj\Debug\net8.0\PT.Odev.Converting-the-Entered-Number-to-String.AssemblyInfoInputs.cache
+C:\Users\mustafa\source\repos\PT.Odev.Converting-the-Entered-Number-to-String\obj\Debug\net8.0\PT.Odev.Converting-the-Entered-Number-to-String.AssemblyInfo.cs
+C:\Users\mustafa\source\repos\PT.Odev.Converting-the-Entered-Number-to-String\obj\Debug\net8.0\PT.Odev.Converting-the-Entered-Number-to-String.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\source\repos\PT.Odev.Converting-the-Entered-Number-to-String\obj\Debug\net8.0\PT.Odev.Converting-the-Entered-Number-to-String.dll
+C:\Users\mustafa\source\repos\PT.Odev.Converting-the-Entered-Number-to-String\obj\Debug\net8.0\refint\PT.Odev.Converting-the-Entered-Number-to-String.dll
+C:\Users\mustafa\source\repos\PT.Odev.Converting-the-Entered-Number-to-String\obj\Debug\net8.0\PT.Odev.Converting-the-Entered-Number-to-String.pdb
+C:\Users\mustafa\source\repos\PT.Odev.Converting-the-Entered-Number-to-String\obj\Debug\net8.0\PT.Odev.Converting-the-Entered-Number-to-String.genruntimeconfig.cache
+C:\Users\mustafa\source\repos\PT.Odev.Converting-the-Entered-Number-to-String\obj\Debug\net8.0\ref\PT.Odev.Converting-the-Entered-Number-to-String.dll
