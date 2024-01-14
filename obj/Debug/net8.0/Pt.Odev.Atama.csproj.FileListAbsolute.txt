@@ -1,0 +1,14 @@
+C:\Users\mustafa\source\repos\Pt.Odev.Atama\bin\Debug\net8.0\Pt.Odev.Atama.exe
+C:\Users\mustafa\source\repos\Pt.Odev.Atama\bin\Debug\net8.0\Pt.Odev.Atama.deps.json
+C:\Users\mustafa\source\repos\Pt.Odev.Atama\bin\Debug\net8.0\Pt.Odev.Atama.runtimeconfig.json
+C:\Users\mustafa\source\repos\Pt.Odev.Atama\bin\Debug\net8.0\Pt.Odev.Atama.dll
+C:\Users\mustafa\source\repos\Pt.Odev.Atama\bin\Debug\net8.0\Pt.Odev.Atama.pdb
+C:\Users\mustafa\source\repos\Pt.Odev.Atama\obj\Debug\net8.0\Pt.Odev.Atama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\source\repos\Pt.Odev.Atama\obj\Debug\net8.0\Pt.Odev.Atama.AssemblyInfoInputs.cache
+C:\Users\mustafa\source\repos\Pt.Odev.Atama\obj\Debug\net8.0\Pt.Odev.Atama.AssemblyInfo.cs
+C:\Users\mustafa\source\repos\Pt.Odev.Atama\obj\Debug\net8.0\Pt.Odev.Atama.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\source\repos\Pt.Odev.Atama\obj\Debug\net8.0\Pt.Odev.Atama.dll
+C:\Users\mustafa\source\repos\Pt.Odev.Atama\obj\Debug\net8.0\refint\Pt.Odev.Atama.dll
+C:\Users\mustafa\source\repos\Pt.Odev.Atama\obj\Debug\net8.0\Pt.Odev.Atama.pdb
+C:\Users\mustafa\source\repos\Pt.Odev.Atama\obj\Debug\net8.0\Pt.Odev.Atama.genruntimeconfig.cache
+C:\Users\mustafa\source\repos\Pt.Odev.Atama\obj\Debug\net8.0\ref\Pt.Odev.Atama.dll
